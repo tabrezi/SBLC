@@ -8,3 +8,4 @@ Modify the code as per experiments titles and document it properly before submis
 NOTE: 
 1) Exp6_refer program should be used as reference for completing the Exp 6 programs of implementing various opertaions on files.
 2) Exp 9 is based on Django framework, so you should have your entire django project directory as Exp9 directory.
+3) Please refer a pdf file in this repository for all programs list experiment wise and few other details.
